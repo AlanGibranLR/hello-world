@@ -4,4 +4,4 @@ Write a bit about yourself. Well, ich habe Hunger und möchte jetzt Tacos aber d
 
 https://developer.apple.com/documentation/uikit/about_app_development_with_uikit dd
 
-https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
+https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
