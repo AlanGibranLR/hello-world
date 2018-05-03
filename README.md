@@ -20,6 +20,4 @@ Finis
 
 
 Crear cuenta en firebase
-
-
-dd
+vg wy
