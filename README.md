@@ -21,3 +21,5 @@ Finis
 
 Crear cuenta en firebase
 vg wy
+
+https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/LocationAwarenessPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009497
