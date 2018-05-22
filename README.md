@@ -14,16 +14,16 @@ https://developer.apple.com/library/content/referencelibrary/GettingStarted/Deve
 
 
 //Finis
- https://github.com/crashbit/ioslab
+https://github.com/crashbit/ioslab
 
 
 //Inicio de la documentación de los mapas dd 
 https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/LocationAwarenessPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009497
 
+//Getting the User's Location
+https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html#//apple_ref/doc/uid/TP40009497-CH2-SW1
 
 //GeoJSON: Providing Directions
 https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html#//apple_ref/doc/uid/TP40009497-CH8-SW5
 
 
-//Getting the User's Location
-https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html#//apple_ref/doc/uid/TP40009497-CH2-SW1
