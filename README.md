@@ -13,14 +13,11 @@ https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift
 https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html#//apple_ref/doc/uid/TP40015214-CH6-SW1
 
 
-Finis
+//Finis
  https://github.com/crashbit/ioslab
 
 
-https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/LocationAwarenessPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009497
-
-
-//El chido
+//Inicio de la documentación de los mapas dd 
 https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/LocationAwarenessPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009497
 
 
